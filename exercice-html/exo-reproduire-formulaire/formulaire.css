@@ -1,5 +1,32 @@
-.zone-texte {
-    width: 100%
-    border="none"
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&family=Dancing+Script&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+.zone-texte{
+    width: 60%;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+}
+
+.submit{
+    background-color: rgb(12, 151, 37);
+    padding-top: 2px;
+    padding-right:30px;
+    padding-bottom:2px;
+    padding-left:30px;
+    margin-top: 30px;
+    color:#fff
+    }
+
+
+    
 
 }
